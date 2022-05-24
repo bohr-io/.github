@@ -2,12 +2,12 @@
 
 Visionary people shape up the future. Yes, we are talking to you. 🎯
 
-Here's an invitation for you to be part of a community made of early adopters from all over the world that turns ideas into projects. At [bohr.io] (https://bohr.io/), everyone is welcome and encouraged to actively participate.
+Here's an invitation for you to be part of a community made of early adopters from all over the world that turns ideas into projects. At [bohr.io](https://bohr.io/), everyone is welcome and encouraged to actively participate.
 
 From here, the devs get into action with the `innovation mode on` and a watchful eye for **trends that will transform the behavior of society through technology**.
 
-We want to be the place where you’ll be proud of your [first deployment] (https://bohr.io/sites) from scratch. We want to be the platform that inspires you and makes you feel part of an environment that moves you forward.
+We want to be the place where you’ll be proud of your [first deployment](https://bohr.io/sites) from scratch. We want to be the platform that inspires you and makes you feel part of an environment that moves you forward.
 
 bohr.io is free to use and easy to learn, with the incredible usability that you’ve been waiting for.
 
-Creating can be easier. [Get started today] (https://bohr.io/)!
+Creating can be easier. [Get started today](https://bohr.io/)!
