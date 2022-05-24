@@ -1,13 +1,13 @@
-## Welcome to bohr.io 🙌
+# Welcome to bohr.io team 🙌
 
-Pessoas visionárias criam os contornos do futuro. É com vocês que estamos falando.
+Visionary people shape up the future. Yes, we are talking to you. 🎯
 
-Construímos uma comunidade que incentiva ideias a saírem do papel. Somos early adopters do mundo todo, aqui todas as pessoas são bem vindas e convidadas a participarem ativamente.
-Daqui, saem preparadas para o futuro, com o senso de inovação ativado e olhar atento para as tendências que vão transformar os comportamentos da sociedade como um todo.
+Here's an invitation for you to be part of a community made of early adopters from all over the world that turns ideas into projects. At [**bohr.io**] (https://bohr.io/), everyone is welcome and encouraged to actively participate.
 
-Queremos te ver sentir o orgulho do primeiro deploy do zero, a sensação de realização e inspiração que contagia, sabendo que aqui você faz parte e tem pessoas torcendo pelo seu sucesso.
+From here, the devs get into action with the `innovation mode on` and a watchful eye for **trends that will transform the behavior of society through technology**.
 
-Ah, é gratuito, fácil de aprender, e com a usabilidade absurda que sabemos que você valoriza.
+We want to be the place where you’ll be proud of your **first deployment** (https://bohr.io/sites) from scratch. We want to be the platform that inspires you and makes you feel part of an environment that moves you forward.
 
-Criar pode ser mais fácil.
-Comece hoje!
+bohr.io is free to use and easy to learn, with the incredible usability that you’ve been waiting for.
+
+Creating can be easier. **Get started today** (https://bohr.io/)!
