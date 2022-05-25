@@ -1,4 +1,4 @@
-# Welcome to bohr.io team 🙌
+# Welcome to bohr.io 🙌
 
 Visionary people shape up the future. Yes, we are talking to you. 🎯
 
